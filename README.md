@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div style="display: inline">
-  <img href=
+  <img href="css3-original.svg>
 </div>
 
