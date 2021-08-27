@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<head>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+</head>
+
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustSilvaJR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,7 +26,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div style="display: inline">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" width="40px"
-height="30px">
+<i class="devicon-css3-plain-wordmark colored"></i>
 </div>
 
