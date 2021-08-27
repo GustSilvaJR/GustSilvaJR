@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div style="display: inline">
-  <img href="css3-original.svg>
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 </div>
 
