@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div style="display: inline">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" width=150px>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" width="40px"
+height="30px">
 </div>
 
