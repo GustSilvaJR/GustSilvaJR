@@ -1,5 +1,5 @@
-##Ooi, sou o Gustavo.Tenho 20 anos e sou apaixonado por programação!<br>Espero que possamos colher bons frutos juntos 🙌✌️💕
-<hr></hr><br><br>
+Ooi, sou o Gustavo.Tenho 20 anos e sou apaixonado por programação!<br>Espero que possamos colher bons frutos juntos 🙌✌️💕
+<br>
 <!--
 **GustSilvaJR/GustSilvaJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
