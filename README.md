@@ -1,5 +1,10 @@
-Ooi, sou o Gustavo.Tenho 21 anos e sou apaixonado por programação!<br>Espero que possamos colher bons frutos juntos 🙌✌️💕
-<br>
+# Hello 🖖
+
+I'm Gustavo, have 21 years old and I'm a FullStack Developer 💻. I'm a computer technician and I'm studying Computer Science at university Vale do Rio Verde - UninCor. Currently I'm working as a Full Stack developer at Digisul company by using PHP, Bootstrap and JavaScript. <br/>
+
+At the moment I'm also studying other technologies like Node Js and React. 💡
+
+
 #
 <!--
 **GustSilvaJR/GustSilvaJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
