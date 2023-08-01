@@ -1,6 +1,6 @@
 # Hello 🖖
 
-I'm Gustavo, have 21 years old and I'm a FullStack Developer 💻. I'm a computer technician and I'm studying Computer Science at university Vale do Rio Verde - UninCor. Currently I'm working as a Full Stack developer at Digisul company by using PHP, Bootstrap and JavaScript. <br/>
+I'm Gustavo, have 22 years old and I'm a FullStack Developer 💻. I'm a computer technician and I'm studying Computer Science at university Vale do Rio Verde - UninCor. Currently I'm working as a Full Stack developer at Digisul company by using PHP, Bootstrap and JavaScript. <br/>
 
 At the moment I'm also studying other technologies like Node Js and Angular. 💡
 
